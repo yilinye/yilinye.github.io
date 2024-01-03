@@ -14,7 +14,7 @@ I'm Yilin Ye, a PhD student at the Hong Kong University of Science and Technolog
 Research Interest and Vision
 ======
 Currently, I'm interested in research at the intersection of Artificial Intelligence, Human Computer Interaction and Art. Particularly, I seek to reflect on the challenges and opportunities for artists and other users in the age of AIGC. 
-Supported by visualization and information retrieval technology, my research seeks to provide a channel for human to interact with and make sense of art and design data and AIGC data.
+Supported by visualization and information retrieval technology, my research seeks to provide a channel for human to interact with and make sense of art, design and AIGC data.
 
 <!-- A data-driven personal website
 ======
