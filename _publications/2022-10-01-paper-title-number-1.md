@@ -1,5 +1,5 @@
 ---
-title: "VISAtlas: An image-based exploration and query system for large visualization collections via neural image embedding"
+title: "VISAtlas: An Image-based Exploration and Query System for Large Visualization Collections via Neural Image Embedding"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'

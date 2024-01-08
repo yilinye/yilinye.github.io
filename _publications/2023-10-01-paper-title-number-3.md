@@ -1,5 +1,5 @@
 ---
-title: "Let the chart spark: Embedding semantic context into chart with text-to-image generative model"
+title: "Let the Chart Spark: Embedding Semantic Context into Chart with Text-to-image Generative Model"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
