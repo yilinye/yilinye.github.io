@@ -1,15 +1,15 @@
 ---
-title: "IntentTuner: An Interactive Framework for Integrating Human Intents in Fine-tuning Text-to-Image Generative Models"
+title: "ModalChorus: Visual Probing and Alignment of Multi-modal Embeddings via Modal Fusion Map"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2023-10-01
-venue: 'Proceedings of CHI 2024'
-paperurl: 'https://arxiv.org/pdf/2401.15559'
+date: 2024-07-15
+venue: 'IEEE Transactions on Visualization and Computer Graphics (VIS 24)'
+paperurl: 'http://arxiv.org/pdf/2407.12315'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-Xingchen Zeng, Ziyao Gao, Yilin Ye, Wei Zeng
+Yilin Ye, Shishi Xiao, Xingchen Zeng, Wei Zeng
 
-[Download paper here](https://arxiv.org/pdf/2401.15559)
+[Download paper here](http://arxiv.org/pdf/2407.12315)
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). 
